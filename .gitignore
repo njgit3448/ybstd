@@ -1,0 +1,23 @@
+.android/
+.node-gyp/
+.oracle_jre_usage/
+AppData/
+Documents/
+Downloads/
+KEYENCE/
+Pictures/
+Music/
+Virtual Machines/
+OneDrive*
+Desktop/
+_rpcs/
+Favorites/
+Links/
+Searches/
+.vscode/
+NTUSER*
+contacts/
+saved games/
+tracing/
+videos/
+.eclipse/

@@ -1,0 +1,63 @@
+# この viminfo ファイルは Vim 8.1 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q!
+|2,0,1535330684,,"q!"
+:.,.+1
+|2,0,1535330681,,".,.+1"
+:q
+|2,0,1535330671,,"q"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""1	LINE	0
+	
+|3,1,1,1,1,0,1535330628,""
+"2	LINE	0
+	[![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
+|3,0,2,1,1,0,1535330627,"[![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)"
+"3	LINE	0
+	[![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
+|3,0,3,1,1,0,1535330626,"[![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1535330625,""
+"5	LINE	0
+	# CakePHP Application Skeleton
+|3,0,5,1,1,0,1535330623,"# CakePHP Application Skeleton"
+"6	LINE	0
+	<<<<<<< HEAD
+|3,0,6,1,1,0,1535330621,"<<<<<<< HEAD"
+
+# ファイルマーク:
+'0  1  0  //Byc1003n/c$/xampp/htdocs/ybstd/README.md
+|4,48,1,0,1535330684,"//Byc1003n/c$/xampp/htdocs/ybstd/README.md"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  //Byc1003n/c$/xampp/htdocs/ybstd/README.md
+|4,39,1,0,1535330684,"//Byc1003n/c$/xampp/htdocs/ybstd/README.md"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> //Byc1003n/c$/xampp/htdocs/ybstd/README.md
+	*	1535330681	0
+	"	1	0
+	.	1	0
+	+	1	0

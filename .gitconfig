@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Noriyoshi Ihara
+	email = ihf@nonjet.com
+[core]
+	autoCRLF = false
